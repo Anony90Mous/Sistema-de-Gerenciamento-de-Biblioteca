@@ -44,7 +44,7 @@ O projeto foi estruturado em fases de entregas. Atualmente, encontra-se na fase 
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/Anony90Mous/Sistema-de-Gerenciamento-de-Biblioteca.git
    ```
 
 2. Configure as credenciais do banco de dados no arquivo `src/main/resources/application.properties`:
